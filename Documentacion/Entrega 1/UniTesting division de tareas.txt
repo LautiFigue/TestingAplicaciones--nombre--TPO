@@ -1,0 +1,7 @@
+UniTesting
+
+Division de tareas:
+
+Jonathan Matteucci: Documentacion y coordinacion
+Bono Dipacce: Testing
+Lautaro Figueroa: Requerimientos y casos de prueba

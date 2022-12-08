@@ -1,0 +1,2 @@
+Todos los Test Cases fueron modificados para que se adapten mejor al ambiente de pruebas
+y tener mayor efectividad al testear la pagina web

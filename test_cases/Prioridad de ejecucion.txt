@@ -1,0 +1,9 @@
+Prioridad de ejecucion de casos de prueba:
+1 - TC-01
+2 - TC-06
+3 - TC-04
+4 - TC-05
+5 - TC-08
+6 - TC-02
+7 - TC-07
+7 - TC-03
